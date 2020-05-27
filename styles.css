@@ -1,0 +1,173 @@
+body{
+    margin:0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    
+}
+
+h1{
+   
+    font-family: 'Sacramento', cursive;
+    font-size: 4.225rem;
+    margin:50px auto 0 auto;
+    color: #3f72af;
+    line-height: 2;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.8rem;
+    color: #3f72af;
+    font-weight: bold;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #07689f;
+    font-size: 1.5rem;
+}
+
+.avatar{
+    margin-top: 5%;
+}
+
+.intro{
+    width: 40%;
+    margin: 0 auto 5% auto;
+}
+
+.top-container{
+    padding-top: 100px;
+    background-color: #dbe2ef;
+}
+
+.middle-container{
+   
+}
+
+
+.bottom-container{
+    background-color: #3f72af;
+    margin: 1% auto 0% auto;
+    padding: 3%;
+}
+
+.bottom-cloud{
+    position:absolute;
+    bottom: 300px;
+    left: 300px;
+}
+
+.top-cloud{
+    position:absolute;
+    right: 300px;
+    top: 40px;
+}
+
+
+.mountain{
+  
+    
+}
+
+a{
+    color: white;
+    margin: 0 2%;
+    text-decoration: none;
+
+    
+}
+
+.skill-row{
+    width:50%;
+    margin: 100px auto;
+    line-height: 2;
+    text-align: left;
+    font-size: 1.3rem;
+}
+
+.skill-row p{
+    text-align: left;
+    font-size: 1rem;
+    
+}
+
+.skill-row h3{
+    text-align: left;
+}
+
+.go_image{
+    width:25%;
+    height: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.blockchain_image{
+    width:25%;
+    height: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.webdevelopment_image{
+    width:25%;
+    height: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.smartcontract_image{
+    width:25%;
+    height: 25%;
+    float: right;
+    margin-left: 30px;
+}
+hr{
+    border-style: dotted none none;
+    height: 0;
+    width: 5%;  
+    border-width: 5px;
+    border-color: gray;
+    margin: 5% auto;
+}
+
+.btn{
+    background-color:#07689f;
+    color: white;
+    border-radius: 5px;
+    font-family: sans-serif;
+    font-style: arial;
+    cursor: pointer;
+    font-size: 19px;
+    padding: 6px;
+    margin: 1% auto;
+    display: inline-block;
+    text-align: center;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    text-decoration: none;
+}
+
+.btn:hover{
+   border: solid #337FED 1px;
+   background: green;
+   text-decoration: none;
+   border-radius: 9px;
+   -webkit-border-radius: 9px;
+   -moz-border-radius: 9px;
+
+}
+
+.copyright{
+    color:white;
+
+}
+
+.linkedin_logo{
+    position: absolute;
+    top: 392%;
+    left: 35.5%
+
+   
+}
